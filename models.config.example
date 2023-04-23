@@ -1,0 +1,9 @@
+model_config_list {
+ config {
+    name: 'saved_model'
+    base_path: 'C:/Users/USER/Desktop/SEM-VI/project/potato-disease-classification/saved_models/3'
+    model_platform: 'tensorflow'
+    model_version_policy: {all: {}}
+        }
+}
+
